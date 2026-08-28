@@ -1638,10 +1638,10 @@
   "Open_Sunset_Panorama": {
    "titulo": "Open Sunset — Panorama",
    "proposito": "Roteiro visual das 3 horas: um pico por foto, mais uma amostra de quem vai a bordo. Para o cliente que sabe o produto e ainda nao revelou quem e.",
-   "homologada_por": "PROPOSTA de 28/08/2026 — aguardando curadoria do fundador",
-   "versao": "0.1",
-   "liberada_para_agente": false,
-   "estado_curadoria": "PROPOSTA - nao enviavel ate aprovacao humana (CCE-2026-003 §10)",
+   "homologada_por": "Matheus (fundador) — liberação de 28/08/2026, com seis trocas de sua autoria",
+   "versao": "1.0",
+   "liberada_para_agente": true,
+   "estado_curadoria": "CURADA E LIBERADA pelo fundador em 28/08/2026",
    "legenda": "Open Sunset Tour — Baía de Guanabara, Rio de Janeiro ⛵️",
    "fotos": [
     {
@@ -1668,7 +1668,8 @@
       "A7",
       "A8",
       "A9"
-     ]
+     ],
+     "marca_dagua_antiga": false
     },
     {
      "id": "DDRIO-HERO-00069",
@@ -1685,27 +1686,28 @@
      "produtos": [
       "A1",
       "A3"
-     ]
+     ],
+     "marca_dagua_antiga": false
     },
     {
-     "id": "DDRIO-HERO-00027",
-     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00027.jpg",
-     "nome": "Despedida de solteira brindando na proa do veleiro",
+     "id": "DDRIO-HERO-00026",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00026.jpg",
+     "nome": "Grupo brindando na proa ao pôr do sol",
      "valor": "A",
      "foco_principal": "paisagem",
      "mostra": [
-      "celebracao",
       "grupo",
       "paisagem",
-      "servico-de-bordo"
+      "por-do-sol"
      ],
-     "frase": "Os dois cartões-postais do Rio na mesma foto.",
+     "frase": "É assim que vocês são vistos do mar: o Cristo de um lado, o Pão de Açúcar do outro.",
      "frase_origem": "rascunho Claude — aguarda as palavras do Matheus",
      "produtos": [
-      "A8",
       "A1",
-      "A3"
-     ]
+      "A3",
+      "A8"
+     ],
+     "marca_dagua_antiga": false
     },
     {
      "id": "DDRIO-HERO-00042",
@@ -1724,27 +1726,30 @@
       "A8",
       "A1",
       "A3"
-     ]
+     ],
+     "marca_dagua_antiga": false
     },
     {
-     "id": "DDRIO-HERO-00039",
-     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00039.jpg",
-     "nome": "Banho de mar em grupo na Baía de Guanabara",
+     "id": "DDRIO-HERO-00040",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00040.jpg",
+     "nome": "Banho de mar na Baía de Guanabara",
      "valor": "A",
      "foco_principal": "banho",
      "mostra": [
       "banho",
-      "grupo"
+      "grupo",
+      "paisagem",
+      "por-do-sol"
      ],
-     "frase": "No meio do passeio a gente para uns 20 minutos para cair na água.",
+     "frase": "No meio do passeio o barco para e o mar fica seu, por uns 20 minutos.",
      "frase_origem": "rascunho Claude — aguarda as palavras do Matheus",
      "produtos": [
       "A1",
       "A2",
       "A3",
-      "A4",
-      "A8"
-     ]
+      "A4"
+     ],
+     "marca_dagua_antiga": true
     },
     {
      "id": "DDRIO-HERO-00064",
@@ -1764,44 +1769,48 @@
       "A1",
       "A3",
       "A8"
-     ]
+     ],
+     "marca_dagua_antiga": false
     },
     {
-     "id": "DDRIO-HERO-00140",
-     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00140.jpg",
-     "nome": "Tripulação DDRio ao leme com o Pão de Açúcar",
-     "valor": "A",
+     "id": "DDRIO-HERO-00017",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00017.jpg",
+     "nome": "Adulto e criança velejando ao pôr do sol",
+     "valor": "B",
      "foco_principal": "tripulacao",
      "mostra": [
+      "crianca",
+      "por-do-sol",
       "tripulacao",
       "vela"
      ],
-     "frase": "Quem leva o barco é tripulação profissional, e conta a história do caminho.",
+     "frase": "A tripulação não só pilota: a bordo, criança também participa.",
      "frase_origem": "rascunho Claude — aguarda as palavras do Matheus",
      "produtos": [
       "A1",
-      "A3",
       "A2",
+      "A3",
       "A4"
-     ]
+     ],
+     "marca_dagua_antiga": true
     },
     {
-     "id": "DDRIO-HERO-00054",
-     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00054.jpg",
-     "nome": "Grupo no veleiro ao pôr do sol",
+     "id": "DDRIO-HERO-00123",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00123.jpg",
+     "nome": "Casal de braços abertos no pôr do sol",
      "valor": "A",
      "foco_principal": "por-do-sol",
      "mostra": [
-      "grupo",
+      "casal",
       "paisagem",
       "por-do-sol"
      ],
-     "frase": "E aí o sol cai, e todo mundo fica em silêncio.",
+     "frase": "E aí o sol cai, e o fim de tarde é todo de vocês.",
      "frase_origem": "rascunho Claude — aguarda as palavras do Matheus",
      "produtos": [
-      "A1",
       "A3"
-     ]
+     ],
+     "marca_dagua_antiga": false
     },
     {
      "id": "DDRIO-HERO-00071",
@@ -1820,26 +1829,29 @@
       "A1",
       "A3",
       "A9"
-     ]
+     ],
+     "marca_dagua_antiga": false
     },
     {
-     "id": "DDRIO-HERO-00033",
-     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00033.jpg",
-     "nome": "Família com crianças navegando em veleiro",
-     "valor": "A",
+     "id": "DDRIO-HERO-00034",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00034.jpg",
+     "nome": "Grupo posando em veleiro com Cristo Redentor",
+     "valor": "B",
      "foco_principal": "familia",
      "mostra": [
       "familia",
+      "grupo",
       "vela"
      ],
-     "frase": "A família inteira acomodada, com o Rio do lado.",
+     "frase": "O Cristo de um lado, a sua gente do outro.",
      "frase_origem": "rascunho Claude — aguarda as palavras do Matheus",
      "produtos": [
-      "A1",
       "A2",
-      "A3",
-      "A4"
-     ]
+      "A4",
+      "A1",
+      "A3"
+     ],
+     "marca_dagua_antiga": false
     },
     {
      "id": "DDRIO-HERO-00043",
@@ -1858,25 +1870,25 @@
       "A2",
       "A3",
       "A4"
-     ]
+     ],
+     "marca_dagua_antiga": false
     },
     {
-     "id": "DDRIO-HERO-00063",
-     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00063.jpg",
-     "nome": "Amigos brindando espumante na proa do veleiro",
-     "valor": "A",
+     "id": "DDRIO-HERO-00047",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00047.jpg",
+     "nome": "Duas pessoas com espumante durante a navegação",
+     "valor": "C",
      "foco_principal": "grupo",
      "mostra": [
-      "celebracao",
-      "grupo",
-      "servico-de-bordo"
+      "grupo"
      ],
-     "frase": "Brindar com quem você gosta, com o Rio atrás.",
+     "frase": "O barco navegando e a taça na mão.",
      "frase_origem": "rascunho Claude — aguarda as palavras do Matheus",
      "produtos": [
       "A1",
       "A3"
-     ]
+     ],
+     "marca_dagua_antiga": true
     }
    ],
    "usar_frase_como_legenda": true
@@ -1902,6 +1914,7 @@
    "celebracao",
    "embarcacao"
   ],
-  "nota_foco": "O campo 'mostra' diz o que a foto PROVA. A Iris pode pedir um foco; o codigo filtra dentro da galeria ja liberada. A curadoria continua sendo humana."
+  "nota_foco": "O campo 'mostra' diz o que a foto PROVA. A Iris pode pedir um foco; o codigo filtra dentro da galeria ja liberada. A curadoria continua sendo humana.",
+  "decisao_marca_dagua": "Decisao do fundador em 28/08/2026: marca d'agua ANTIGA DA PROPRIA DDRio nao desqualifica ativo para uso comercial. Nao alcanca assinatura de terceiro nem marca de terceiro, que seguem bloqueadas. Ver CCE-2026-003 §4."
  }
 }
