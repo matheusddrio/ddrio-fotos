@@ -1639,7 +1639,7 @@
    "titulo": "Open Sunset — Panorama",
    "proposito": "Roteiro visual das 3 horas: um pico por foto, mais uma amostra de quem vai a bordo. Para o cliente que sabe o produto e ainda nao revelou quem e.",
    "homologada_por": "Matheus (fundador) — liberação de 28/08/2026, com seis trocas de sua autoria",
-   "versao": "1.0",
+   "versao": "1.1",
    "liberada_para_agente": true,
    "estado_curadoria": "CURADA E LIBERADA pelo fundador em 28/08/2026",
    "legenda": "Open Sunset Tour — Baía de Guanabara, Rio de Janeiro ⛵️",
@@ -1681,7 +1681,7 @@
       "casal",
       "vela"
      ],
-     "frase": "Vela aberta e barco navegando de verdade — não é passeio de motor.",
+     "frase": "A vela aberta e o Rio do lado.",
      "frase_origem": "rascunho Claude — aguarda as palavras do Matheus",
      "produtos": [
       "A1",
@@ -1915,6 +1915,7 @@
    "embarcacao"
   ],
   "nota_foco": "O campo 'mostra' diz o que a foto PROVA. A Iris pode pedir um foco; o codigo filtra dentro da galeria ja liberada. A curadoria continua sendo humana.",
-  "decisao_marca_dagua": "Decisao do fundador em 28/08/2026: marca d'agua ANTIGA DA PROPRIA DDRio nao desqualifica ativo para uso comercial. Nao alcanca assinatura de terceiro nem marca de terceiro, que seguem bloqueadas. Ver CCE-2026-003 §4."
+  "decisao_marca_dagua": "Decisao do fundador em 28/08/2026: marca d'agua ANTIGA DA PROPRIA DDRio nao desqualifica ativo para uso comercial. Nao alcanca assinatura de terceiro nem marca de terceiro, que seguem bloqueadas. Ver CCE-2026-003 §4.",
+  "correcao_28_08": "Frase do foco 'vela' corrigida: a anterior dizia 'nao e passeio de motor', promessa que a operacao nao controla (o veleiro usa motor na marina e sem vento). Achado do fundador."
  }
 }
