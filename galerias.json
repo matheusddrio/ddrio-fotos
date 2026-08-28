@@ -29,7 +29,10 @@
      "nome": "Casal de duas mulheres brindando ao pôr do sol",
      "valor": "A"
     }
-   ]
+   ],
+   "liberada_para_agente": false,
+   "legenda": "",
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
   },
   "Despedida_Traineira": {
    "titulo": "Despedida / Grupo - Traineira",
@@ -78,7 +81,10 @@
      "nome": "Despedida de solteira ao pôr do sol",
      "valor": "C"
     }
-   ]
+   ],
+   "liberada_para_agente": false,
+   "legenda": "",
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
   },
   "Despedida_Veleiro": {
    "titulo": "Despedida de Solteira - Veleiro",
@@ -157,7 +163,10 @@
      "nome": "Amigas a bordo com o Pão de Açúcar",
      "valor": "B"
     }
-   ]
+   ],
+   "liberada_para_agente": false,
+   "legenda": "",
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
   },
   "Embarcacoes": {
    "titulo": "Embarcacoes da Frota",
@@ -272,7 +281,10 @@
      "nome": "Salão interno de lancha iluminado",
      "valor": "C"
     }
-   ]
+   ],
+   "liberada_para_agente": false,
+   "legenda": "",
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
   },
   "Familia_Crianca": {
    "titulo": "Familia com Crianca",
@@ -297,7 +309,10 @@
      "nome": "Grupo de crianças a bordo do veleiro",
      "valor": "A"
     }
-   ]
+   ],
+   "liberada_para_agente": false,
+   "legenda": "",
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
   },
   "Hospitalidade": {
    "titulo": "Hospitalidade da Tripulacao",
@@ -352,7 +367,10 @@
      "nome": "Despedida de solteira com espumante no veleiro",
      "valor": "B"
     }
-   ]
+   ],
+   "liberada_para_agente": false,
+   "legenda": "",
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
   },
   "Institucional": {
    "titulo": "Institucional DDRio",
@@ -377,7 +395,10 @@
      "nome": "Tripulação DDRio ao leme com o Pão de Açúcar",
      "valor": "A"
     }
-   ]
+   ],
+   "liberada_para_agente": false,
+   "legenda": "",
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
   },
   "Lancha_Perola": {
    "titulo": "Lancha / Perola - produto A7",
@@ -438,7 +459,10 @@
      "nome": "Salão interno de lancha iluminado",
      "valor": "C"
     }
-   ]
+   ],
+   "liberada_para_agente": false,
+   "legenda": "",
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
   },
   "Morning": {
    "titulo": "Morning Tour",
@@ -517,7 +541,10 @@
      "nome": "Banho de mar em grupo na Baía de Guanabara",
      "valor": "A"
     }
-   ]
+   ],
+   "liberada_para_agente": false,
+   "legenda": "",
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
   },
   "Open_Sunset_Casal": {
    "titulo": "Open Sunset - Casal",
@@ -596,7 +623,10 @@
      "nome": "Homem fotografando mulher ao pôr do sol",
      "valor": "B"
     }
-   ]
+   ],
+   "liberada_para_agente": true,
+   "legenda": "Open Sunset Tour — Baía de Guanabara, Rio de Janeiro ⛵️",
+   "estado_curadoria": "homologada e validada em producao"
   },
   "Operacional_Chegada": {
    "titulo": "Operacional - chegada e embarque",
@@ -657,7 +687,10 @@
      "nome": "Interior da cabine da lancha com cama",
      "valor": "C"
     }
-   ]
+   ],
+   "liberada_para_agente": false,
+   "legenda": "",
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
   },
   "Private_Sunset_Casal": {
    "titulo": "Private Sunset - Casal",
@@ -736,7 +769,10 @@
      "nome": "Casal na proa com decoração romântica a bordo",
      "valor": "A"
     }
-   ]
+   ],
+   "liberada_para_agente": false,
+   "legenda": "",
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
   },
   "Servico_de_Bordo": {
    "titulo": "Servico de Bordo",
@@ -815,7 +851,15 @@
      "nome": "Casal na proa com decoração romântica a bordo",
      "valor": "A"
     }
-   ]
+   ],
+   "liberada_para_agente": false,
+   "legenda": "",
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
   }
+ },
+ "controle": {
+  "regra": "A Iris só pode enviar galeria com liberada_para_agente = true. As demais existem aqui para curadoria e NAO sao enviaveis.",
+  "quem_libera": "Matheus (fundador), por curadoria homologada. Alterar este campo e ato de governanca, nao de manutencao.",
+  "atualizado_em": "2026-08-28"
  }
 }
