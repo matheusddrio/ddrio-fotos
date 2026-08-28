@@ -1,0 +1,821 @@
+{
+ "manifesto": "DDRio - Patrimonio Visual para WhatsApp (derivadas .w1)",
+ "gerado_em": "2026-08-28",
+ "base_url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/",
+ "derivada": "1280px lado maior, JPEG q82, progressivo, metadados EXIF removidos",
+ "criterio": "apenas ativos com apto_publicacao_externa = true; VIEW_Uso_Interno excluida integralmente",
+ "fonte": "catalogo_mestre_hero.json v1.11 + Views homologadas por Matheus em 19/08/2026",
+ "galerias": {
+  "Casal_Homoafetivo": {
+   "titulo": "Casal Homoafetivo",
+   "proposito": "Diversidade real do acervo",
+   "homologada_por": "Matheus (fundador) - decisoes D1-D6 de 19/08/2026",
+   "fotos": [
+    {
+     "id": "DDRIO-HERO-00130",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00130.jpg",
+     "nome": "Troca de alianças entre dois homens a bordo, com o Pão de Açúcar",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00127",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00127.jpg",
+     "nome": "Casal de duas mulheres em pedido de casamento na enseada da Urca",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00141",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00141.jpg",
+     "nome": "Casal de duas mulheres brindando ao pôr do sol",
+     "valor": "A"
+    }
+   ]
+  },
+  "Despedida_Traineira": {
+   "titulo": "Despedida / Grupo - Traineira",
+   "proposito": "Peca de despedida e grupo em traineira",
+   "homologada_por": "Matheus (fundador) - decisoes D1-D6 de 19/08/2026",
+   "fotos": [
+    {
+     "id": "DDRIO-HERO-00021",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00021.jpg",
+     "nome": "Grupo posando com drinques na proa da lancha",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00025",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00025.jpg",
+     "nome": "Despedida de solteira brindando com Pão de Açúcar",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00138",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00138.jpg",
+     "nome": "Grupo de amigas na proa da Dona Canoa com o Corcovado ao pôr do sol",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00073",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00073.jpg",
+     "nome": "Grupo de amigas rindo em despedida de solteira",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00133",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00133.jpg",
+     "nome": "Vista da proa da Maré Mansa com passageiros — escala da embarcação",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00024",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00024.jpg",
+     "nome": "Despedida de solteira brindando com espumante a bordo",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00022",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00022.jpg",
+     "nome": "Despedida de solteira ao pôr do sol",
+     "valor": "C"
+    }
+   ]
+  },
+  "Despedida_Veleiro": {
+   "titulo": "Despedida de Solteira - Veleiro",
+   "proposito": "Peca de despedida em veleiro",
+   "homologada_por": "Matheus (fundador) - decisoes D1-D6 de 19/08/2026",
+   "fotos": [
+    {
+     "id": "DDRIO-HERO-00137",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00137.jpg",
+     "nome": "Amigas rindo com taças personalizadas em despedida de solteira",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00143",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00143.jpg",
+     "nome": "Grupo brindando com o MAC de Niterói ao fundo",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00142",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00142.jpg",
+     "nome": "Grupo grande em despedida de solteira com Pão de Açúcar e Cristo Redentor",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00138",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00138.jpg",
+     "nome": "Grupo de amigas na proa da Dona Canoa com o Corcovado ao pôr do sol",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00019",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00019.jpg",
+     "nome": "Amigas brindando com drinques na despedida de solteira",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00023",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00023.jpg",
+     "nome": "Despedida de solteira com Museu de Arte Contemporânea",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00027",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00027.jpg",
+     "nome": "Despedida de solteira brindando na proa do veleiro",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00042",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00042.jpg",
+     "nome": "Amigas na proa com Museu de Arte Contemporânea",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00070",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00070.jpg",
+     "nome": "Despedida de solteira em veleiro com Cristo Redentor",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00118",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00118.jpg",
+     "nome": "Despedida de solteira na proa com outro veleiro",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00026",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00026.jpg",
+     "nome": "Grupo brindando na proa ao pôr do sol",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00020",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00020.jpg",
+     "nome": "Amigas a bordo com o Pão de Açúcar",
+     "valor": "B"
+    }
+   ]
+  },
+  "Embarcacoes": {
+   "titulo": "Embarcacoes da Frota",
+   "proposito": "Mostrar a frota",
+   "homologada_por": "Matheus (fundador) - decisoes D1-D6 de 19/08/2026",
+   "fotos": [
+    {
+     "id": "DDRIO-HERO-00001",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00001.jpg",
+     "nome": "Equipe posando no convés da traineira",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00145",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00145.jpg",
+     "nome": "Equipe DDRio reunida no cais — quem somos",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00021",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00021.jpg",
+     "nome": "Grupo posando com drinques na proa da lancha",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00139",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00139.jpg",
+     "nome": "Passageira na proa ao pôr do sol com o Corcovado — paisagem-assinatura",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00138",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00138.jpg",
+     "nome": "Grupo de amigas na proa da Dona Canoa com o Corcovado ao pôr do sol",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00042",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00042.jpg",
+     "nome": "Amigas na proa com Museu de Arte Contemporânea",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00119",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00119.jpg",
+     "nome": "Veleiro Chama ancorado com Cristo Redentor ao fundo",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00071",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00071.jpg",
+     "nome": "Casal se beijando na proa ao entardecer",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00133",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00133.jpg",
+     "nome": "Vista da proa da Maré Mansa com passageiros — escala da embarcação",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00037",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00037.jpg",
+     "nome": "Solário na proa da lancha atracada",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00038",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00038.jpg",
+     "nome": "Convés da lancha ancorada na marina do Rio",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00083",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00083.jpg",
+     "nome": "Lancha branca com grupo a bordo",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00084",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00084.jpg",
+     "nome": "Salão interno da lancha com mesa e sofás",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00029",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00029.jpg",
+     "nome": "Veleiro atracado na marina ao pôr do sol",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00085",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00085.jpg",
+     "nome": "Interior da cabine da lancha com cama",
+     "valor": "C"
+    },
+    {
+     "id": "DDRIO-HERO-00086",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00086.jpg",
+     "nome": "Proa da lancha ancorada na marina do Rio",
+     "valor": "C"
+    },
+    {
+     "id": "DDRIO-HERO-00087",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00087.jpg",
+     "nome": "Área de convés e mesa da lancha na marina",
+     "valor": "C"
+    },
+    {
+     "id": "DDRIO-HERO-00088",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00088.jpg",
+     "nome": "Salão interno de lancha iluminado",
+     "valor": "C"
+    }
+   ]
+  },
+  "Familia_Crianca": {
+   "titulo": "Familia com Crianca",
+   "proposito": "Peca para familia com crianca",
+   "homologada_por": "Matheus (fundador) - decisoes D1-D6 de 19/08/2026",
+   "fotos": [
+    {
+     "id": "DDRIO-HERO-00033",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00033.jpg",
+     "nome": "Família com crianças navegando em veleiro",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00136",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00136.jpg",
+     "nome": "Encontro de gerações: duas mulheres rindo a bordo",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00043",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00043.jpg",
+     "nome": "Grupo de crianças a bordo do veleiro",
+     "valor": "A"
+    }
+   ]
+  },
+  "Hospitalidade": {
+   "titulo": "Hospitalidade da Tripulacao",
+   "proposito": "Provar que ha gente cuidando do cliente",
+   "homologada_por": "Matheus (fundador) - decisoes D1-D6 de 19/08/2026",
+   "fotos": [
+    {
+     "id": "DDRIO-HERO-00001",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00001.jpg",
+     "nome": "Equipe posando no convés da traineira",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00064",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00064.jpg",
+     "nome": "Serviço de frutas ao pôr do sol",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00145",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00145.jpg",
+     "nome": "Equipe DDRio reunida no cais — quem somos",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00140",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00140.jpg",
+     "nome": "Tripulação DDRio ao leme com o Pão de Açúcar",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00136",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00136.jpg",
+     "nome": "Encontro de gerações: duas mulheres rindo a bordo",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00061",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00061.jpg",
+     "nome": "Duas amigas brindando com caipirinha no veleiro",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00059",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00059.jpg",
+     "nome": "Prato de frutas servido a bordo",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00079",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00079.jpg",
+     "nome": "Despedida de solteira com espumante no veleiro",
+     "valor": "B"
+    }
+   ]
+  },
+  "Institucional": {
+   "titulo": "Institucional DDRio",
+   "proposito": "Representar a empresa e o time",
+   "homologada_por": "Matheus (fundador) - decisoes D1-D6 de 19/08/2026",
+   "fotos": [
+    {
+     "id": "DDRIO-HERO-00001",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00001.jpg",
+     "nome": "Equipe posando no convés da traineira",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00145",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00145.jpg",
+     "nome": "Equipe DDRio reunida no cais — quem somos",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00140",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00140.jpg",
+     "nome": "Tripulação DDRio ao leme com o Pão de Açúcar",
+     "valor": "A"
+    }
+   ]
+  },
+  "Lancha_Perola": {
+   "titulo": "Lancha / Perola - produto A7",
+   "proposito": "Pagina e peca do produto A7 Perola",
+   "homologada_por": "Matheus (fundador) - decisoes D1-D6 de 19/08/2026",
+   "fotos": [
+    {
+     "id": "DDRIO-HERO-00021",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00021.jpg",
+     "nome": "Grupo posando com drinques na proa da lancha",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00037",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00037.jpg",
+     "nome": "Solário na proa da lancha atracada",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00038",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00038.jpg",
+     "nome": "Convés da lancha ancorada na marina do Rio",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00083",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00083.jpg",
+     "nome": "Lancha branca com grupo a bordo",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00084",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00084.jpg",
+     "nome": "Salão interno da lancha com mesa e sofás",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00085",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00085.jpg",
+     "nome": "Interior da cabine da lancha com cama",
+     "valor": "C"
+    },
+    {
+     "id": "DDRIO-HERO-00086",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00086.jpg",
+     "nome": "Proa da lancha ancorada na marina do Rio",
+     "valor": "C"
+    },
+    {
+     "id": "DDRIO-HERO-00087",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00087.jpg",
+     "nome": "Área de convés e mesa da lancha na marina",
+     "valor": "C"
+    },
+    {
+     "id": "DDRIO-HERO-00088",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00088.jpg",
+     "nome": "Salão interno de lancha iluminado",
+     "valor": "C"
+    }
+   ]
+  },
+  "Morning": {
+   "titulo": "Morning Tour",
+   "proposito": "Pagina e peca do Morning Tour",
+   "homologada_por": "Matheus (fundador) - decisoes D1-D6 de 19/08/2026",
+   "fotos": [
+    {
+     "id": "DDRIO-HERO-00021",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00021.jpg",
+     "nome": "Grupo posando com drinques na proa da lancha",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00025",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00025.jpg",
+     "nome": "Despedida de solteira brindando com Pão de Açúcar",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00033",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00033.jpg",
+     "nome": "Família com crianças navegando em veleiro",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00131",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00131.jpg",
+     "nome": "Proa ao amanhecer com o Pão de Açúcar — paisagem-assinatura matinal",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00140",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00140.jpg",
+     "nome": "Tripulação DDRio ao leme com o Pão de Açúcar",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00143",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00143.jpg",
+     "nome": "Grupo brindando com o MAC de Niterói ao fundo",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00144",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00144.jpg",
+     "nome": "Casal na proa com decoração romântica a bordo",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00019",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00019.jpg",
+     "nome": "Amigas brindando com drinques na despedida de solteira",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00023",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00023.jpg",
+     "nome": "Despedida de solteira com Museu de Arte Contemporânea",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00027",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00027.jpg",
+     "nome": "Despedida de solteira brindando na proa do veleiro",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00049",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00049.jpg",
+     "nome": "Pedido de casamento diante do Pão de Açúcar",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00039",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00039.jpg",
+     "nome": "Banho de mar em grupo na Baía de Guanabara",
+     "valor": "A"
+    }
+   ]
+  },
+  "Open_Sunset_Casal": {
+   "titulo": "Open Sunset - Casal",
+   "proposito": "Pagina e peca do Open Sunset para casal",
+   "homologada_por": "Matheus (fundador) - decisoes D1-D6 de 19/08/2026",
+   "fotos": [
+    {
+     "id": "DDRIO-HERO-00069",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00069.jpg",
+     "nome": "Casal se beijando na proa com espumante",
+     "valor": "S"
+    },
+    {
+     "id": "DDRIO-HERO-00008",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00008.jpg",
+     "nome": "Casal ao pôr do sol na proa do veleiro",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00010",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00010.jpg",
+     "nome": "Beijo do casal com Pão de Açúcar",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00012",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00012.jpg",
+     "nome": "Casal abraçado na proa com Pão de Açúcar",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00014",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00014.jpg",
+     "nome": "Casal brindando espumante a bordo do veleiro",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00121",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00121.jpg",
+     "nome": "Casal brindando na proa com o Pão de Açúcar ao fundo",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00122",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00122.jpg",
+     "nome": "Casal em gesto de afeto com o Cristo Redentor ao fundo",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00123",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00123.jpg",
+     "nome": "Casal de braços abertos no pôr do sol",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00005",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00005.jpg",
+     "nome": "Casal com Pão de Açúcar em preto e branco",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00141",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00141.jpg",
+     "nome": "Casal de duas mulheres brindando ao pôr do sol",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00009",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00009.jpg",
+     "nome": "Silhueta de casal se beijando ao pôr do sol",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00011",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00011.jpg",
+     "nome": "Homem fotografando mulher ao pôr do sol",
+     "valor": "B"
+    }
+   ]
+  },
+  "Operacional_Chegada": {
+   "titulo": "Operacional - chegada e embarque",
+   "proposito": "Instrucao de chegada e confirmacao de reserva (WhatsApp, OTA, atendimento)",
+   "homologada_por": "Matheus (fundador) - decisoes D1-D6 de 19/08/2026",
+   "fotos": [
+    {
+     "id": "DDRIO-HERO-00001",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00001.jpg",
+     "nome": "Equipe posando no convés da traineira",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00145",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00145.jpg",
+     "nome": "Equipe DDRio reunida no cais — quem somos",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00120",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00120.jpg",
+     "nome": "Ponto de encontro da DDRio na Marina da Glória, com o píer e o skyline do Centro do Rio ao fundo",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00002",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00002.jpg",
+     "nome": "Grupo comemorando aniversário de 30 anos na marina",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00037",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00037.jpg",
+     "nome": "Solário na proa da lancha atracada",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00038",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00038.jpg",
+     "nome": "Convés da lancha ancorada na marina do Rio",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00084",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00084.jpg",
+     "nome": "Salão interno da lancha com mesa e sofás",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00029",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00029.jpg",
+     "nome": "Veleiro atracado na marina ao pôr do sol",
+     "valor": "B"
+    },
+    {
+     "id": "DDRIO-HERO-00085",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00085.jpg",
+     "nome": "Interior da cabine da lancha com cama",
+     "valor": "C"
+    }
+   ]
+  },
+  "Private_Sunset_Casal": {
+   "titulo": "Private Sunset - Casal",
+   "proposito": "Pagina do Private Sunset para casal",
+   "homologada_por": "Matheus (fundador) - decisoes D1-D6 de 19/08/2026",
+   "fotos": [
+    {
+     "id": "DDRIO-HERO-00069",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00069.jpg",
+     "nome": "Casal se beijando na proa com espumante",
+     "valor": "S"
+    },
+    {
+     "id": "DDRIO-HERO-00051",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00051.jpg",
+     "nome": "Pedido de casamento na proa com Pão de Açúcar",
+     "valor": "S"
+    },
+    {
+     "id": "DDRIO-HERO-00008",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00008.jpg",
+     "nome": "Casal ao pôr do sol na proa do veleiro",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00010",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00010.jpg",
+     "nome": "Beijo do casal com Pão de Açúcar",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00012",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00012.jpg",
+     "nome": "Casal abraçado na proa com Pão de Açúcar",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00014",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00014.jpg",
+     "nome": "Casal brindando espumante a bordo do veleiro",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00121",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00121.jpg",
+     "nome": "Casal brindando na proa com o Pão de Açúcar ao fundo",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00122",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00122.jpg",
+     "nome": "Casal em gesto de afeto com o Cristo Redentor ao fundo",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00123",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00123.jpg",
+     "nome": "Casal de braços abertos no pôr do sol",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00130",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00130.jpg",
+     "nome": "Troca de alianças entre dois homens a bordo, com o Pão de Açúcar",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00005",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00005.jpg",
+     "nome": "Casal com Pão de Açúcar em preto e branco",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00144",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00144.jpg",
+     "nome": "Casal na proa com decoração romântica a bordo",
+     "valor": "A"
+    }
+   ]
+  },
+  "Servico_de_Bordo": {
+   "titulo": "Servico de Bordo",
+   "proposito": "Provar bar, gastronomia e bebidas a bordo",
+   "homologada_por": "Matheus (fundador) - decisoes D1-D6 de 19/08/2026",
+   "fotos": [
+    {
+     "id": "DDRIO-HERO-00010",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00010.jpg",
+     "nome": "Beijo do casal com Pão de Açúcar",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00014",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00014.jpg",
+     "nome": "Casal brindando espumante a bordo do veleiro",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00064",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00064.jpg",
+     "nome": "Serviço de frutas ao pôr do sol",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00121",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00121.jpg",
+     "nome": "Casal brindando na proa com o Pão de Açúcar ao fundo",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00122",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00122.jpg",
+     "nome": "Casal em gesto de afeto com o Cristo Redentor ao fundo",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00130",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00130.jpg",
+     "nome": "Troca de alianças entre dois homens a bordo, com o Pão de Açúcar",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00021",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00021.jpg",
+     "nome": "Grupo posando com drinques na proa da lancha",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00025",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00025.jpg",
+     "nome": "Despedida de solteira brindando com Pão de Açúcar",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00136",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00136.jpg",
+     "nome": "Encontro de gerações: duas mulheres rindo a bordo",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00137",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00137.jpg",
+     "nome": "Amigas rindo com taças personalizadas em despedida de solteira",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00143",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00143.jpg",
+     "nome": "Grupo brindando com o MAC de Niterói ao fundo",
+     "valor": "A"
+    },
+    {
+     "id": "DDRIO-HERO-00144",
+     "url": "https://raw.githubusercontent.com/matheusddrio/ddrio-fotos/main/fotos/DDRIO-HERO-00144.jpg",
+     "nome": "Casal na proa com decoração romântica a bordo",
+     "valor": "A"
+    }
+   ]
+  }
+ }
+}
