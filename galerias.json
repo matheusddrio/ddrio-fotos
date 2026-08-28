@@ -52,7 +52,8 @@
    ],
    "liberada_para_agente": false,
    "legenda": "",
-   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel",
+   "usar_frase_como_legenda": false
   },
   "Despedida_Traineira": {
    "titulo": "Despedida / Grupo - Traineira",
@@ -149,7 +150,8 @@
    ],
    "liberada_para_agente": false,
    "legenda": "",
-   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel",
+   "usar_frase_como_legenda": false
   },
   "Despedida_Veleiro": {
    "titulo": "Despedida de Solteira - Veleiro",
@@ -313,7 +315,8 @@
    ],
    "liberada_para_agente": false,
    "legenda": "",
-   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel",
+   "usar_frase_como_legenda": false
   },
   "Embarcacoes": {
    "titulo": "Embarcacoes da Frota",
@@ -541,7 +544,8 @@
    ],
    "liberada_para_agente": false,
    "legenda": "",
-   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel",
+   "usar_frase_como_legenda": false
   },
   "Familia_Crianca": {
    "titulo": "Familia com Crianca",
@@ -587,7 +591,8 @@
    ],
    "liberada_para_agente": false,
    "legenda": "",
-   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel",
+   "usar_frase_como_legenda": false
   },
   "Hospitalidade": {
    "titulo": "Hospitalidade da Tripulacao",
@@ -694,7 +699,8 @@
    ],
    "liberada_para_agente": false,
    "legenda": "",
-   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel",
+   "usar_frase_como_legenda": false
   },
   "Institucional": {
    "titulo": "Institucional DDRio",
@@ -738,7 +744,8 @@
    ],
    "liberada_para_agente": false,
    "legenda": "",
-   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel",
+   "usar_frase_como_legenda": false
   },
   "Lancha_Perola": {
    "titulo": "Lancha / Perola - produto A7",
@@ -856,7 +863,8 @@
    ],
    "liberada_para_agente": false,
    "legenda": "",
-   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel",
+   "usar_frase_como_legenda": false
   },
   "Morning": {
    "titulo": "Morning Tour",
@@ -1015,7 +1023,8 @@
    ],
    "liberada_para_agente": false,
    "legenda": "",
-   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel",
+   "usar_frase_como_legenda": false
   },
   "Open_Sunset_Casal": {
    "titulo": "Open Sunset - Casal",
@@ -1178,7 +1187,8 @@
    ],
    "liberada_para_agente": true,
    "legenda": "Open Sunset Tour — Baía de Guanabara, Rio de Janeiro ⛵️",
-   "estado_curadoria": "homologada e validada em producao"
+   "estado_curadoria": "homologada e validada em producao",
+   "usar_frase_como_legenda": false
   },
   "Operacional_Chegada": {
    "titulo": "Operacional - chegada e embarque",
@@ -1296,7 +1306,8 @@
    ],
    "liberada_para_agente": false,
    "legenda": "",
-   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel",
+   "usar_frase_como_legenda": false
   },
   "Private_Sunset_Casal": {
    "titulo": "Private Sunset - Casal",
@@ -1457,7 +1468,8 @@
    ],
    "liberada_para_agente": false,
    "legenda": "",
-   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel",
+   "usar_frase_como_legenda": false
   },
   "Servico_de_Bordo": {
    "titulo": "Servico de Bordo",
@@ -1620,7 +1632,8 @@
    ],
    "liberada_para_agente": false,
    "legenda": "",
-   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel"
+   "estado_curadoria": "PENDENTE DE CURADORIA - nao enviavel",
+   "usar_frase_como_legenda": false
   },
   "Open_Sunset_Panorama": {
    "titulo": "Open Sunset — Panorama",
@@ -1865,7 +1878,8 @@
       "A3"
      ]
     }
-   ]
+   ],
+   "usar_frase_como_legenda": true
   }
  },
  "controle": {
